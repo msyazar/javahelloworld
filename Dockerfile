@@ -7,3 +7,4 @@ RUN echo "put some text here" > /data/myvol/test
 VOLUME /data/myvol
 yeni satır
 ikinci satır
+asdfasdf
